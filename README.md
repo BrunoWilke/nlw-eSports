@@ -1,4 +1,4 @@
-#NLW eSports# 
+# NLW eSports
 
 ![preview](.github/preview.png)
 
@@ -8,7 +8,7 @@ Projeto Construído no evento Next Level Week da Rocketseat
 
 :paperclip: [Clique aqui para acessar](https://brunowilke.github.io/nlw-eSports/)
 
-:black_nib:##Tecnologias
+## :black_nib:Tecnologias
 
 - HTML
 - CSS
